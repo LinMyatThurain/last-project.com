@@ -1,0 +1,87 @@
+.nav{background-color: black;
+	height: 100px;
+	overflow: hidden;
+}
+.g{
+	height: 100px;
+	background-color: black;
+	overflow: hidden;
+	float: left;
+}
+.label{
+	float: left;
+	background-color: black;
+	width: px;
+	height: 100px;
+	text-align: left;
+	width: 510px;
+}
+.rl{
+	float: left;
+	background-color: black;
+	margin-left: 20px;
+}
+.icon{
+	margin-top: 30px;
+	margin-left: 27px;
+	background-color: black;
+}
+.button{
+	width: 150px; height:35px; 
+	margin-top: 30px;
+	margin-left: 30px; 
+	background-color: rgb(23, 210, 243); 
+	color: white; 
+	border: none; 
+	border-radius: 20px;
+}
+.event{
+	margin-top: 20px;
+}
+.night{
+	float: left;
+	text-align: left;
+	background-color: white;
+	width: 250px;
+	margin-left: 140px;
+	margin-top: 50px;
+	height: 490px;
+}
+.seemore{
+	background-color: rgb(23, 210, 243); 
+	color: white; 
+	border: none; 
+	border-radius: 20px;
+	width: 100px;
+	height: 30px;
+}
+.live{
+	float: left;
+	background-color: white;
+	text-align: left;
+	margin-top: 50px;
+	margin-left: 25px;
+	width: 250px;
+	height: 490px;
+}
+.dj{
+	float: left;
+	background-color: white;
+	text-align: left;
+	margin-top: 50px;
+	margin-left: 25px;
+	width: 250px;
+	height: 490px;
+}
+.party{
+	float: left;
+	background-color: white;
+	text-align: left;
+	margin-top: 50px;
+	margin-left: 25px;
+	width: 250px;
+	height: 490px;
+}
+.main{
+	height: 760px;
+}
